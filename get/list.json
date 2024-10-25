@@ -98,14 +98,25 @@
       ]
     },
     {
-      "title": "Adding More soon",
+      "title": "Nihon",
       "device-icon": "windows",
-      "categories": "Adding More soon",
-      "price": "Adding More soon",
-      "detected": "Adding More soon",
-      "UNC Score": "Adding More soon",
-      "Rating": "Adding More soon",
-      "buttons": []
+      "categories": "SAFE, PAID, Recommended, PC",
+      "price": "$6.49/weekly",
+      "detected": "Yes",
+      "UNC Score": "100%",
+      "Rating": "5/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://nihon.lol"
+        },
+        {
+          "text": "Purchase",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://bloxproducts.com/#f0"
+        }
+      ]
     }
   ]
 }
