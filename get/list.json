@@ -98,13 +98,13 @@
       ]
     },
     {
-      "title": "etc",
-      "device-icon": "etc",
-      "categories": "etc",
-      "price": "etc",
-      "detected": "etc",
-      "UNC Score": "etc",
-      "Rating": "etc",
+      "title": "Sex",
+      "device-icon": "windows",
+      "categories": "SAFE",
+      "price": "FREE",
+      "detected": "Unknown",
+      "UNC Score": "69%",
+      "Rating": "4.5/5",
       "buttons": []
     }
   ]
