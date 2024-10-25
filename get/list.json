@@ -3,7 +3,7 @@
     {
       "title": "Solara",
       "device-icon": "windows",
-      "categories": "SAFE, FREE, Keyless, Recommended, Beginner-Friendly",
+      "categories": "SAFE, FREE, Keyless, Recommended, Beginner-Friendly, PC",
       "price": "FREE",
       "detected": "Yes",
       "UNC Score": "67%",
@@ -19,7 +19,7 @@
     {
       "title": "Wave",
       "device-icon": "windows",
-      "categories": "PAID",
+      "categories": "PAID, PC",
       "price": "$7.49/weekly",
       "detected": "Unknown",
       "UNC Score": "100%",
@@ -40,7 +40,7 @@
     {
       "title": "Xeno",
       "device-icon": "windows",
-      "categories": "SAFE, FREE, Keyless, Beginner-Friendly",
+      "categories": "SAFE, FREE, Keyless, Beginner-Friendly, PC",
       "price": "FREE",
       "detected": "Yes",
       "UNC Score": "76%",
@@ -63,7 +63,7 @@
     {
       "title": "Delta",
       "device-icon": "iOS, Android",
-      "categories": "SAFE, FREE",
+      "categories": "SAFE, Mobile",
       "price": "Key-System",
       "detected": "Unknown",
       "UNC Score": "100%",
@@ -79,7 +79,7 @@
     {
       "title": "Synapse Z",
       "device-icon": "windows",
-      "categories": "SAFE, PAID",
+      "categories": "SAFE, PAID, PC",
       "price": "$6.49/weekly",
       "detected": "Unknown",
       "UNC Score": "100%",
@@ -98,13 +98,13 @@
       ]
     },
     {
-      "title": "Sex",
+      "title": "Adding More soon",
       "device-icon": "windows",
-      "categories": "SAFE",
-      "price": "FREE",
-      "detected": "Unknown",
-      "UNC Score": "69%",
-      "Rating": "4.5/5",
+      "categories": "Adding More soon",
+      "price": "Adding More soon",
+      "detected": "Adding More soon",
+      "UNC Score": "Adding More soon",
+      "Rating": "Adding More soon",
       "buttons": []
     }
   ]
