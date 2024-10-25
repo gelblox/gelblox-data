@@ -209,7 +209,7 @@
     {
       "title": "Hydrogen",
       "device-icon": "android, macos",
-      "categories": "FREE, Mobile, MacOS",
+      "categories": "FREE, Mobile, macos",
       "price": "FREE",
       "detected": "Unknown",
       "UNC Score": "Unknown",
