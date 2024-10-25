@@ -73,6 +73,11 @@
           "text": "Website",
           "icon": "fas fa-globe",
           "url": "https://deltaexploits.gg"
+        },
+        {
+          "text": "Premium",
+          "icon": "fas fa-star",
+          "url": "https://shop.deltaexploits.gg"
         }
       ]
     },
@@ -198,6 +203,22 @@
           "text": "Buy Keyless",
           "icon": "fas fa-shopping-cart",
           "url": "https://vegax.mysellix.io"
+        }
+      ]
+    },
+    {
+      "title": "Hydrogen",
+      "device-icon": "android, macos",
+      "categories": "FREE, Mobile",
+      "price": "FREE",
+      "detected": "Unknown",
+      "UNC Score": "Unknown",
+      "Rating": "1.5/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://hydrogen.sh"
         }
       ]
     }
