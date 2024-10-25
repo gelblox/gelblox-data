@@ -118,5 +118,65 @@
         }
       ]
     }
+  ],
+  "3": [
+    {
+      "title": "Celery",
+      "device-icon": "windows",
+      "categories": "SAFE, PAID, PC",
+      "price": "$3/weekly",
+      "detected": "Unknown",
+      "UNC Score": "94%",
+      "Rating": "4.5/5",
+      "buttons": [
+        {
+          "text": "Discord",
+          "icon": "fab fa-discord",
+          "url": "https://discord.com/invite/celery"
+        }
+      ]
+    },
+    {
+      "title": "Seliware",
+      "device-icon": "windows",
+      "categories": "SAFE, PAID, PC",
+      "price": "$10/monthly",
+      "detected": "Yes",
+      "UNC Score": "100%",
+      "Rating": "4.5/5",
+      "buttons": [
+        {
+          "text": "Discord",
+          "icon": "fab fa-discord",
+          "url": "https://seliware.com"
+        },
+        {
+          "text": "Purchase",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://gelblox.github.io/purchase/seliware-99711698"
+        }
+      ]
+    },
+    {
+      "title": "Nezur Executor",
+      "device-icon": "windows",
+      "categories": "FREE, PC",
+      "price": "Key-System",
+      "detected": "Unknown",
+      "UNC Score": "99%",
+      "Rating": "3.5/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://nezur.io"
+        },
+        {
+          "text": "Download",
+          "icon": "fas fa-download",
+          "url": "https://nezur.io/Nezur_Executor.zip"
+        }
+      ]
+    }
   ]
 }
