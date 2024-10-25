@@ -221,6 +221,27 @@
           "url": "https://hydrogen.sh"
         }
       ]
+    },
+    {
+      "title": "MacSploit",
+      "device-icon": "macos",
+      "categories": "PAID",
+      "price": "$4.99/monthly | $10/Lifetime",
+      "detected": "Unknown",
+      "UNC Score": "98%",
+      "Rating": "3/5",
+      "buttons": [
+        {
+          "text": "Discord",
+          "icon": "fab fa-discord",
+          "url": "https://discord.gg/macsploit"
+        },
+        {
+          "text": "Purchase",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://discord.com/channels/1262951163943452723/1262951326372069509/1272337516594335764"
+        }
+      ]
     }
   ]
 }
