@@ -174,7 +174,30 @@
         {
           "text": "Download",
           "icon": "fas fa-download",
-          "url": "https://nezur.io/Nezur_Executor.zip"
+          "url": "https://nezur.io/Nezur_Executor"
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "title": "Vega X",
+      "device-icon": "android",
+      "categories": "Mobile",
+      "price": "Key-System / $20/Lifetime",
+      "detected": "Unknown",
+      "UNC Score": "Unknown",
+      "Rating": "2",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://vegax.gg"
+        },
+        {
+          "text": "Buy Keyless",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://vegax.mysellix.io"
         }
       ]
     }
