@@ -269,10 +269,10 @@
     {
       "title": "Nyx",
       "device-icon": "",
-      "categories": "",
-      "price": "Unknown",
+      "categories": "Flagged",
+      "price": "Flagged",
       "detected": "yes",
-      "UNC Score": "Unknown",
+      "UNC Score": "30%",
       "Rating": "0/5",
       "buttons": [
         {
