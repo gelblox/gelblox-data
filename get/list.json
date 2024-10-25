@@ -212,7 +212,7 @@
       "categories": "FREE, Mobile",
       "price": "FREE",
       "detected": "Unknown",
-      "UNC Score": "Unknown",
+      "UNC Score": "Currently in testing",
       "Rating": "1.5/5",
       "buttons": [
         {
@@ -240,6 +240,29 @@
           "text": "Purchase",
           "icon": "fas fa-shopping-cart",
           "url": "https://discord.com/channels/1262951163943452723/1262951326372069509/1272337516594335764"
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "title": "Codex",
+      "device-icon": "android, iOS",
+      "categories": "FREE, PC, Mobile",
+      "price": "Key-System",
+      "detected": "Unknown",
+      "UNC Score": "Unknown",
+      "Rating": "1.5/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://codex.lol"
+        },
+        {
+          "text": "Discord",
+          "icon": "fab fa-discord",
+          "url": "https://discord.gg/robloxexploits"
         }
       ]
     }
