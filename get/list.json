@@ -8,7 +8,13 @@
       "detected": "Yes",
       "UNC Score": "67%",
       "Rating": "5/5",
-      "Website": "getsolara.dev"
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://getsolara.dev"
+        }
+      ]
     },
     {
       "title": "Wave",
@@ -18,8 +24,18 @@
       "detected": "Unknown",
       "UNC Score": "100%",
       "Rating": "4.7/5",
-      "Website": "getwave.gg",
-      "CustomButton": "https://bloxproducts.com/#f0"
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://getwave.gg"
+        },
+        {
+          "text": "Purchase",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://bloxproducts.com/#f0"
+        }
+      ]
     },
     {
       "title": "Xeno",
@@ -28,7 +44,19 @@
       "price": "FREE",
       "detected": "Yes",
       "UNC Score": "76%",
-      "Rating": "4.5/5"
+      "Rating": "4.5/5",
+      "buttons": [
+        {
+          "text": "Discord",
+          "icon": "fab fa-discord",
+          "url": "https://discord.gg/getxeno"
+        },
+        {
+          "text": "Donate",
+          "icon": "fas fa-heart",
+          "url": "https://gelblox.github.io/donate/users/rizve"
+        }
+      ]
     }
   ],
   "2": [
@@ -39,7 +67,14 @@
       "price": "Key-System",
       "detected": "Unknown",
       "UNC Score": "100%",
-      "Rating": "4/5"
+      "Rating": "4/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://deltaexploits.gg"
+        }
+      ]
     },
     {
       "title": "Synapse Z",
@@ -48,7 +83,19 @@
       "price": "$6.49/weekly",
       "detected": "Unknown",
       "UNC Score": "100%",
-      "Rating": "5/5"
+      "Rating": "5/5",
+      "buttons": [
+        {
+          "text": "Website",
+          "icon": "fas fa-globe",
+          "url": "https://synapsez.net"
+        },
+        {
+          "text": "Purchase",
+          "icon": "fas fa-shopping-cart",
+          "url": "https://bloxproducts.com/#f1"
+        }
+      ]
     },
     {
       "title": "etc",
@@ -57,7 +104,8 @@
       "price": "etc",
       "detected": "etc",
       "UNC Score": "etc",
-      "Rating": "etc"
+      "Rating": "etc",
+      "buttons": []
     }
   ]
 }
