@@ -5,7 +5,7 @@
       "device-icon": "windows",
       "categories": "SAFE, FREE, Keyless, Recommended, Beginner-Friendly, PC",
       "price": "FREE",
-      "detected": "Yes",
+      "detected": "unknown",
       "UNC Score": "67%",
       "Rating": "5/5",
       "buttons": [
@@ -21,7 +21,7 @@
       "device-icon": "windows",
       "categories": "PAID, PC",
       "price": "$7.49/weekly",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "100%",
       "Rating": "3.5/5",
       "buttons": [
@@ -42,7 +42,7 @@
       "device-icon": "windows",
       "categories": "SAFE, FREE, Keyless, Beginner-Friendly, PC",
       "price": "FREE",
-      "detected": "Yes",
+      "detected": "unknown",
       "UNC Score": "76%",
       "Rating": "4.5/5",
       "buttons": [
@@ -65,7 +65,7 @@
       "device-icon": "iOS, Android",
       "categories": "SAFE, Mobile",
       "price": "Key-System",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "100%",
       "Rating": "5/5",
       "buttons": [
@@ -86,7 +86,7 @@
       "device-icon": "windows",
       "categories": "SAFE, PAID, PC",
       "price": "$6.49/weekly",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "100%",
       "Rating": "5/5",
       "buttons": [
@@ -107,7 +107,7 @@
       "device-icon": "windows",
       "categories": "SAFE, PAID, Recommended, PC",
       "price": "$6.49/weekly",
-      "detected": "Yes",
+      "detected": "unknown",
       "UNC Score": "100%",
       "Rating": "5/5",
       "buttons": [
@@ -130,7 +130,7 @@
       "device-icon": "windows",
       "categories": "SAFE, PAID, PC",
       "price": "$3/weekly",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "94%",
       "Rating": "4.5/5",
       "buttons": [
@@ -146,7 +146,7 @@
       "device-icon": "windows",
       "categories": "SAFE, PAID, PC",
       "price": "$10/monthly",
-      "detected": "Yes",
+      "detected": "unknown",
       "UNC Score": "100%",
       "Rating": "4.5/5",
       "buttons": [
@@ -167,7 +167,7 @@
       "device-icon": "windows",
       "categories": "FREE, PC",
       "price": "Key-System",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "99%",
       "Rating": "4.5/5",
       "buttons": [
@@ -190,8 +190,8 @@
       "device-icon": "android",
       "categories": "Mobile",
       "price": "Key-System / $20/Lifetime",
-      "detected": "Unknown",
-      "UNC Score": "Unknown",
+      "detected": "unknown",
+      "UNC Score": "unknown",
       "Rating": "2",
       "buttons": [
         {
@@ -211,7 +211,7 @@
       "device-icon": "android, macos",
       "categories": "FREE, Mobile",
       "price": "FREE",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "Currently in testing",
       "Rating": "1.5/5",
       "buttons": [
@@ -227,7 +227,7 @@
       "device-icon": "macos",
       "categories": "PAID",
       "price": "$4.99/monthly | $10/Lifetime",
-      "detected": "Unknown",
+      "detected": "unknown",
       "UNC Score": "98%",
       "Rating": "3/5",
       "buttons": [
@@ -250,8 +250,8 @@
       "device-icon": "android, iOS",
       "categories": "FREE, PC, Mobile",
       "price": "Key-System",
-      "detected": "Unknown",
-      "UNC Score": "Unknown",
+      "detected": "unknown",
+      "UNC Score": "unknown",
       "Rating": "1.5/5",
       "buttons": [
         {
