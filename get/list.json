@@ -244,13 +244,13 @@
       ]
     }
   ],
-  "5": [
+    "5": [
     {
       "title": "Codex",
       "device-icon": "android, iOS",
       "categories": "FREE, PC, Mobile",
       "price": "Key-System",
-      "detected": "yes",
+      "detected": "unknown",
       "UNC Score": "unknown",
       "Rating": "1.5/5",
       "buttons": [
@@ -262,7 +262,23 @@
         {
           "text": "Discord",
           "icon": "fab fa-discord",
-          "url": "https://discord.gg/robloxexploits"
+          "url": "https://discord.gg/robloxexploit"
+        }
+      ]
+    },
+    {
+      "title": "Nyx",
+      "device-icon": "",
+      "categories": "",
+      "price": "Unknown",
+      "detected": "yes",
+      "UNC Score": "Unknown",
+      "Rating": "0/5",
+      "buttons": [
+        {
+          "text": "Download",
+          "icon": "fas fa-download",
+          "url": "https://download?https://unknowndata.co/files/85351935/zip.rar"
         }
       ]
     }
