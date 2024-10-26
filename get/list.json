@@ -209,7 +209,7 @@
     {
       "title": "Hydrogen",
       "device-icon": "android, macos",
-      "categories": "FREE, Mobile",
+      "categories": "FREE, Mobile, MacOS",
       "price": "FREE",
       "detected": "no",
       "UNC Score": "Currently in testing",
@@ -225,7 +225,7 @@
     {
       "title": "MacSploit",
       "device-icon": "macos",
-      "categories": "PAID",
+      "categories": "PAID, MacOS",
       "price": "$4.99/monthly | $10/Lifetime",
       "detected": "no",
       "UNC Score": "98%",
@@ -279,6 +279,22 @@
           "text": "Download",
           "icon": "fas fa-download",
           "url": "https://download?https://unknowndata.co/files/85351935/zip.rar"
+        }
+      ]
+    },
+    {
+      "title": "Zorara",
+      "device-icon": "windows",
+      "categories": "PC, FREE, Keyless, Flagged",
+      "price": "Unknown",
+      "detected": "unknown",
+      "UNC Score": "Unknown",
+      "Rating": "0/5",
+      "buttons": [
+        {
+          "text": "Download",
+          "icon": "fas fa-download",
+          "url": "https://downloadjunki/files/36248/zip.rar"
         }
       ]
     }
